@@ -16,7 +16,7 @@
 | **Copilot Studio** | 에이전트 빌더 | 안내(Instruction)·기술(Skill)·지식·도구 설정, Copilot Credit 종량제 과금 |
 | **SharePoint** | 리서치 저장소 | `리서치 정보`(Word) / `리서치 보고서`(PPT) 폴더, 에이전트의 지식 원본 |
 | **Aside** | 리서치 실행 | 경쟁사 PLP 상품카드 실측·분석 → Word 작성 → SharePoint 업로드 |
-| **= Agent on Teams / Copilot** | 결과 | Teams·Copilot에서 바로 호출해 리서치 기반 PPT 비교 보고서 작성 |
+| **= Agent on Teams / Copilot** | 리서치 보고서 작성 & 목록 보기 | Teams·Copilot에서 바로 호출해 리서치 기반 PPT 비교 보고서 작성 |
 
 ### 작업 흐름
 
