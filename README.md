@@ -4,7 +4,7 @@
 
 경쟁사 PLP(상품 목록 페이지)의 상품카드 리서치부터 비교 PPT 보고서 작성까지 맡기는 에이전트를, 발표 화면 순서 그대로 누구나 따라 만들 수 있도록 정리한 Step by Step 가이드입니다.
 
-> 발표: 김현혜 (프리랜서 UX Designer) · 2026.10.18
+> 발표: 김현혜 (프리랜서 UX Designer) · 2026.10.18<br>
 > 발표 자료: [slides/presentation.pptx](slides/presentation.pptx)
 
 ---
