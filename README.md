@@ -32,6 +32,7 @@
 - Microsoft 365 **업무(회사) 계정** + 관리자 권한 (Power Platform·SharePoint 관리 센터 접근)
 - 결제 수단이 등록된 **Azure 구독** (Copilot Credit 종량제 청구용)
 - **Aside** (경쟁사 리서치 실행용)
+- LLM 구독(Chat GPT, Claude 등) for Aside
 
 ---
 
