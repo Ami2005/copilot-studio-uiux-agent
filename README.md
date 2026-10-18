@@ -5,7 +5,7 @@
 경쟁사 PLP(상품 목록 페이지)의 상품카드 리서치부터 비교 PPT 보고서 작성까지 맡기는 에이전트를, 발표 화면 순서 그대로 누구나 따라 만들 수 있도록 정리한 Step by Step 가이드입니다.
 
 > 발표: 김현혜 (프리랜서 UX Designer) · 2026.10.18<br>
-> 발표 자료: [발표 자료](https://github.com/Ami2005/copilot-studio-uiux-agent/blob/main/%EC%8B%9C%EA%B0%84%EC%9D%84%20%EC%95%84%EB%81%BC%EB%8A%94%20UIUX%20Research%20Agent_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_20261018.pdf)
+> 발표 자료: [발표 자료]([https://github.com/Ami2005/copilot-studio-uiux-agent/blob/main/%EC%8B%9C%EA%B0%84%EC%9D%84%20%EC%95%84%EB%81%BC%EB%8A%94%20UIUX%20Research%20Agent_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_20261018.pdf](https://github.com/Ami2005/copilot-studio-uiux-agent/blob/main/UIUX_Research_Agent_20261018_v0.4.pdf))
 
 ---
 
