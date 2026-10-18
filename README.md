@@ -1,4 +1,4 @@
-<img width="4032" height="711" alt="image" src="https://github.com/user-attachments/assets/0125adf9-cf81-4c4f-bb44-084ebf9fa808" /># 시간을 아끼는 UI/UX Research Agent
+# 시간을 아끼는 UI/UX Research Agent
 
 **Copilot Studio + SharePoint + Aside = Teams·Copilot에서 바로 쓰는 상품카드 리서치 에이전트**
 
